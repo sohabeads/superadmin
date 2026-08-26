@@ -1,0 +1,6 @@
+{
+  "name": "ClassiNote - Super Admin & Grading Portal",
+  "description": "Portail d'administration complet ClassiNote pour la gestion des écoles, l'importation de données JSON et la saisie intelligente des copies d'élèves.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
